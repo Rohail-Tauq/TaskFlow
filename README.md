@@ -15,3 +15,13 @@ It’s designed to showcase the app’s features, customer reviews, and pricing 
 - **Responsive Design** – Looks great on both phones and large screens.  
 
 ---
+
+## Tech used
+
+React.js – Frontend framework
+
+React Router – Multi-page routing
+
+TailwindCSS – Styling & responsive design
+
+Recharts – Data visualization (charts)
